@@ -1,7 +1,7 @@
 # DrawfromFlask
 Utilizing Python and Flask in order to make a website
 
-Flask is a high performing front-end framework used by several top companies in the world. JavaScript is more ubiquitous ; however, Flask was extremely easy to use and build this *** website with. Linode was super easy to use. 
+Flask is a high performing front-end framework used by several top companies in the world. JavaScript is more ubiquitous ; however, Flask was extremely easy to use and build this *** website with. Linode was super easy to use. I recently took some time to explore and learn Flask from Youtube videos as a challenge to then see if I could build a simple example of the framework. 
 
 
 
