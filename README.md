@@ -1,9 +1,9 @@
 # DrawfromFlask
-Utilizing Python and Flask in order to make a webpage.
+Utilizing Python and Flask in order to make a simple interactive webpage.
 
-Flask is a high performing front-end framework used by several top companies in the world. JavaScript is more ubiquitous ; however, Flask was extremely easy to use and build this *** website with.
+Flask is a high performing front-end framework used by several top companies in the world. Flask was extremely easy to use and build this *** website with.
 
-Linode was super easy to use. I recently took some time to explore and learn Flask from Youtube videos as a challenge to then see if I could build a simple example of the framework. The goal then would be to develop and integrate a backend component, such as Django. 
+Linode was seemless to integrate and develop the website in. I recently took some time to explore and learn Flask from Youtube videos as a challenge to then see if I could build a simple example of the framework. The goal then would be to develop and integrate a backend component, such as Django. 
 
 
 
@@ -15,3 +15,5 @@ Linode was super easy to use. I recently took some time to explore and learn Fla
 
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 
+
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
